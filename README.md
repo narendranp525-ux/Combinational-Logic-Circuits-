@@ -22,6 +22,7 @@ Decoder
 
 Comparator
 ALU (Arithmetic Logic Unit)
+
 Logic Gates (AND, OR, NOT, NAND, NOR, XOR, XNOR)
 
 🛠 Tools Used
@@ -30,11 +31,17 @@ ModelSim (Simulation)
 Intel Quartus Prime (Synthesis)
 
 📂 Repository Structure
+
 ├── half_adder.vhd
+
 ├── full_adder.vhd
+
 ├── mux_4to1.vhd
+
 ├── decoder_3to8.vhd
+
 ├── alu_4bit.vhd
+
 └── testbenches/
     ├── tb_half_adder.vhd
     ├── tb_full_adder.vhd
