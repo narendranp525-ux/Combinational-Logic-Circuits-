@@ -1,16 +1,25 @@
 📚 Overview
 
 Combinational circuits are digital circuits whose outputs depend only on the current inputs (no memory elements involved).
+
 This repository includes VHDL implementations of commonly used combinational circuits such as:
 
 Half Adder
+
 Full Adder
+
 Ripple Carry Adder
+
 Subtractor
+
 Multiplexer (MUX)
+
 Demultiplexer (DEMUX)
+
 Encoder
+
 Decoder
+
 Comparator
 ALU (Arithmetic Logic Unit)
 Logic Gates (AND, OR, NOT, NAND, NOR, XOR, XNOR)
